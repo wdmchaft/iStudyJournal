@@ -38,21 +38,21 @@
 		0E63EE1115607B0200F50627 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		0E63EE1315607B0200F50627 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		0E63EE1515607B0200F50627 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		0E63EE1915607B0200F50627 /* iStudyJournal-Info.plist */ = {isa = PBXFileReference; path = "iStudyJournal-Info.plist"; sourceTree = "<group>"; };
+		0E63EE1915607B0200F50627 /* iStudyJournal-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iStudyJournal-Info.plist"; sourceTree = "<group>"; };
 		0E63EE1B15607B0200F50627 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0E63EE1D15607B0200F50627 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		0E63EE1F15607B0200F50627 /* iStudyJournal-Prefix.pch */ = {isa = PBXFileReference; path = "iStudyJournal-Prefix.pch"; sourceTree = "<group>"; };
-		0E63EE2015607B0200F50627 /* SJAppDelegate.h */ = {isa = PBXFileReference; path = SJAppDelegate.h; sourceTree = "<group>"; };
+		0E63EE1F15607B0200F50627 /* iStudyJournal-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iStudyJournal-Prefix.pch"; sourceTree = "<group>"; };
+		0E63EE2015607B0200F50627 /* SJAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SJAppDelegate.h; sourceTree = "<group>"; };
 		0E63EE2115607B0200F50627 /* SJAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SJAppDelegate.m; sourceTree = "<group>"; };
 		0E63EE2415607B0200F50627 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		0E63EE2715607B0200F50627 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		0E63EE2915607B0200F50627 /* SJViewController.h */ = {isa = PBXFileReference; path = SJViewController.h; sourceTree = "<group>"; };
+		0E63EE2915607B0200F50627 /* SJViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SJViewController.h; sourceTree = "<group>"; };
 		0E63EE2A15607B0200F50627 /* SJViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SJViewController.m; sourceTree = "<group>"; };
 		0E63EE3115607B0200F50627 /* iStudyJournalTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iStudyJournalTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E63EE3215607B0200F50627 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		0E63EE3A15607B0200F50627 /* iStudyJournalTests-Info.plist */ = {isa = PBXFileReference; path = "iStudyJournalTests-Info.plist"; sourceTree = "<group>"; };
+		0E63EE3A15607B0200F50627 /* iStudyJournalTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iStudyJournalTests-Info.plist"; sourceTree = "<group>"; };
 		0E63EE3C15607B0200F50627 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		0E63EE3E15607B0200F50627 /* iStudyJournalTests.h */ = {isa = PBXFileReference; path = iStudyJournalTests.h; sourceTree = "<group>"; };
+		0E63EE3E15607B0200F50627 /* iStudyJournalTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = iStudyJournalTests.h; sourceTree = "<group>"; };
 		0E63EE3F15607B0200F50627 /* iStudyJournalTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iStudyJournalTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
