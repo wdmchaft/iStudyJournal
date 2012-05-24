@@ -2,17 +2,17 @@
 //  main.m
 //  iStudyJournal
 //
-//  Created by Tim Swast on 5/13/12.
-//  Copyright (c) 2012 Tim Swast. All rights reserved.
+//  Created by Banana Juice LLC on 5/24/12.
+//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-#import "SJAppDelegate.h"
+#import "AppDelegate.h"
 
 int main(int argc, char *argv[])
 {
     @autoreleasepool {
-        return UIApplicationMain(argc, argv, nil, NSStringFromClass([SJAppDelegate class]));
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
     }
 }

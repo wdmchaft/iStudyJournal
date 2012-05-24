@@ -2,8 +2,8 @@
 //  iStudyJournalTests.m
 //  iStudyJournalTests
 //
-//  Created by Tim Swast on 5/13/12.
-//  Copyright (c) 2012 Tim Swast. All rights reserved.
+//  Created by Banana Juice LLC on 5/24/12.
+//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
 #import "iStudyJournalTests.h"
